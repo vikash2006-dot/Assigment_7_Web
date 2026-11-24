@@ -4,15 +4,6 @@ An intuitive, responsive student accommodation booking portal built with React a
 
 ---
 
-## Student Details & Assignment Information
-
-- **Student Name:** Vikash Kumar
-- **Roll Number:** [Insert Roll Number Here]
-- **Course:** WEB 301 – Advanced Frontend Engineering
-- **Problem Statement:** P1 – Hostel Room Booking Web Application
-
----
-
 ## Project Description
 
 StayNest is a modern hostel accommodation management dashboard designed for university students to easily find and secure their campus lodging. 
